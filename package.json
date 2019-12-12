@@ -1,9 +1,9 @@
 {
   "name": "@sparkly/logger",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A cross environment logger supporting browser, node and electron",
-  "main": "index",
+  "main": "index.mjs",
   "author": "Felix Ganz <felix.ganz.94@gmail.com>",
   "license": "MIT",
   "private": false,
