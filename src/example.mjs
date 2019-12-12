@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import Logger from './Logger.mjs';
+import Logger from '../index.mjs';
 import LEVELS from './Levels.mjs';
 
 const log = Logger.getLogger('MainProcess').useChalk(chalk).setColor(chalk.green);
